@@ -1,6 +1,6 @@
 # Even Subarray practice Question
 # help:  https://www.geeksforgeeks.org/number-subarrays-m-odd-numbers/
-
+# github test
 def evenSubarray(numbers, k):
     count = 0
     n = len(numbers)
